@@ -2,4 +2,4 @@
 
 ✅QR codes are two-dimensional barcodes that can store various types of information, such as URLs, text, contact details, etc.
 
-✅For fun we can also generate colorful QRCode.
+✅For fun we can also generate colorful QRCode. Here the example of Such Colorfol QRCode in advanced
